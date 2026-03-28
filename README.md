@@ -46,7 +46,7 @@ The project utilizes several core CV concepts covered in the course:
 ## ⚙️ Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Abhi4621/AbhiPandey-223BAI10909-VisionScan-CV-Pipeline.git](https://github.com/Abhi4621/AbhiPandey-223BAI10909-VisionScan-CV-Pipeline.git)
+   git clone [https://github.com/Abhi4621/AbhiPandey-23BAI10909-VisionScan-CV-Pipeline.git](https://github.com/Abhi4621/AbhiPandey-23BAI10909-VisionScan-CV-Pipeline.git)
    Install dependencies:
 
 Bash
